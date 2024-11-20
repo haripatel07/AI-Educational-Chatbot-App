@@ -1,4 +1,3 @@
-Here’s a sample `README.md` file tailored for your AI-based educational chatbot app:
 
 ---
 
