@@ -49,7 +49,7 @@ This project is an AI-powered educational chatbot designed to provide students a
 
 2. Navigate to the project directory:  
    ```bash  
-   cd Real-Time-Chatbot-Assistant-with-GUI  
+   cd CPI-PROJECT-CHATBOT-EDUCATIONAL
    ```  
 
 3. Install the required dependencies:  
