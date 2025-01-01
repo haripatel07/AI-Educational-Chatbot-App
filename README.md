@@ -82,7 +82,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact  
 
 For questions or suggestions, please reach out to:  
-- **Developer:** Om Choksi  
+- **Developer:** Om Choksi, Hari Patel, Dev Patel, Het Patel  
 - **GitHub:** [OMCHOKSI108](https://github.com/OMCHOKSI108)  
 
 ---
