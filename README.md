@@ -86,5 +86,3 @@ For questions or suggestions, please reach out to:
 - **GitHub:** [OMCHOKSI108](https://github.com/OMCHOKSI108)  
 
 ---
-
-Feel free to modify the sections to align with your exact project details and goals!
